@@ -28,3 +28,9 @@ body{
     font-weight: normal;
     font-size: 1em;
 }
+
+#anita{
+    text-align: center;
+    border: blue solid;
+    padding: 1px;
+}
