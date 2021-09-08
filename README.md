@@ -10,6 +10,8 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades multiples de todo mundo*
 * Creado por el estudiante de Platzi Team
+* Incluye una gran variedad de de personajes
+* Disponible para el 2021
 
 > Y como un amable recordatorio **Este readme.md es un chiste** 
 [Vistame, Este es el link de mi proyecto](http://https://github.com/mahechahe/hyperblog "Vistame, Este es el link de mi proyecto") :tw-1f631:
