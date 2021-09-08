@@ -8,7 +8,8 @@ En este curso vemos de todo:
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
-* Las personalidades multiples de todo mundo
+* Las personalidades multiples de todo mundo*
+* Creado por el estudiante de Platzi Team
 
 > Y como un amable recordatorio **Este readme.md es un chiste** 
 [Vistame, Este es el link de mi proyecto](http://https://github.com/mahechahe/hyperblog "Vistame, Este es el link de mi proyecto") :tw-1f631:
